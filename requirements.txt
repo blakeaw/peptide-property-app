@@ -1,0 +1,3 @@
+streamlit
+numpy 
+peptides==0.2.1

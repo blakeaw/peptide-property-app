@@ -37,6 +37,7 @@ st.write("Molecular Weight (kDa): ", molec_weight)
 st.write("Hydrophobicity: ", hydro)
 st.write("PPI-Index (Boman index): ", ppi_index)
 
-
-
-
+st.write('')
+st.write('')
+st.markdown("------")
+st.write('Powered by peptides.py version ',peptides.__version__)
